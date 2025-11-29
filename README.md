@@ -1,5 +1,5 @@
 
-## On Vortices Within Vortices
+## On the Vortices-Within-Vortices Dataset
 
 Bürger et al. visualized vortices within vortices [^vortices] (I cited this work in [^complements]).
 Their data set seems to be the Forced Isotropic Turbulence Data Set [^isotropicpaper] from Johns Hopkins Turbulence Database, available for download [^isotropic]. Some more description, on the database and also the simulation and the data set, are given by Yi et al. [^database].
