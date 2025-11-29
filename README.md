@@ -2,7 +2,7 @@
 ## On the Vortices-Within-Vortices Dataset
 
 Bürger et al. visualized vortices within vortices [^vortices] (I cited this work in [^complements]).
-Their data set seems to be the Forced Isotropic Turbulence Data Set [^isotropicpaper] from Johns Hopkins Turbulence Database, available for download [^isotropic]. Some more description, on the database and also the simulation and the data set, are given by Yi et al. [^database].
+Their dataset seems to be the Forced Isotropic Turbulence Data Set [^isotropicpaper] from Johns Hopkins Turbulence Database, available for download [^isotropic]. Some more description, on the database and also the simulation and the dataset, are given by Yi et al. [^database].
 
 The simulation by Wan et al. [^isotropicpaper] is cited by publications on fluid feature identification [^identification], AI use [^ai2021] [^ai2024] [^ai2025] among others [^topology]. It is noteworthy that this work by Wan et al. from 2012 has suddenly started receiving citations in the 2020s as the latest AI wave [^ai2021] took off, especially since 2024, right after the transformer model significantly increased the AI investment.
  
