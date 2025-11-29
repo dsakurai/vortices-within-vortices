@@ -1,13 +1,13 @@
 
 ## On the Vortices-Within-Vortices Dataset
 
-Bürger et al. visualized vortices within vortices [^vortices] (I cited this work in [^complements]).
+Bürger et al. visualized vortices within vortices [[vortices]](#vortices) (I cited this work in [^complements]).
 Their dataset seems to be the Forced Isotropic Turbulence Data Set [^isotropicpaper] from Johns Hopkins Turbulence Database, available for download [^isotropic]. Some more description, on the database and also the simulation and the dataset, are given by Yi et al. [^database].
 
 The simulation by Wan et al. [^isotropicpaper] is cited by publications on fluid feature identification [^identification], AI use [^ai2021] [^ai2024] [^ai2025] among others [^topology]. It is noteworthy that this work by Wan et al. from 2012 has suddenly started receiving citations in the 2020s as the latest AI wave [^ai2021] took off, especially since 2024, right after the transformer model significantly increased the AI investment.
  
 ## References
-[^vortices] Bürger, Kai, Marc Treib, Rüdiger Westermann, Suzanne Werner, Cristian C. Lalescu, Alexander Szalay, Charles Meneveau, and Gregory L. Eyink. "Vortices within vortices: hierarchical nature of vortex tubes in turbulence." arXiv preprint arXiv:1210.3325 (2012). https://arxiv.org/pdf/1210.3325
+<a id="vortices">[vortices]</a> Bürger, Kai, Marc Treib, Rüdiger Westermann, Suzanne Werner, Cristian C. Lalescu, Alexander Szalay, Charles Meneveau, and Gregory L. Eyink. "Vortices within vortices: hierarchical nature of vortex tubes in turbulence." arXiv preprint arXiv:1210.3325 (2012). https://arxiv.org/pdf/1210.3325
 [^isotropic] Forced Isotropic Turbulence Dataset  https://turbulence.idies.jhu.edu/datasets/homogeneousTurbulence/isotropic
 [^isotropicpaper] Minping, Wan, Shiyi Chen, Gregory Eyink, Charles Meneveau, Perry Johnson, Eric Perlman, Randal Burns, Yi Li, Alex Szalay, and Stephen Hamilton. "Forced isotropic turbulence data set (extended)." (2012). https://turbulence.idies.jhu.edu/docs/isotropic/README-isotropic.pdf
 [^database] Li, Yi, Eric Perlman, Minping Wan, Yunke Yang, Charles Meneveau, Randal Burns, Shiyi Chen, Alexander Szalay, and Gregory Eyink. "A public turbulence database cluster and applications to study Lagrangian evolution of velocity increments in turbulence." Journal of Turbulence 9 (2008): N31.
