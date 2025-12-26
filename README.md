@@ -1,13 +1,14 @@
 
 ## On the Vortices-Within-Vortices Dataset
 
-Bürger et al. visualized vortices within vortices [[BTW+23]](#BTW+23) (I cited this work in [[FSS]](#FSS)).
+Bürger et al. visualized vortices within vortices [[BTW+23](#BTW+23),[I](#I)] (I cited this work in [[FSS]](#FSS)).
 Their dataset seems to be the Forced Isotropic Turbulence Data Set [[WCE+12]](#WCE+12) from Johns Hopkins Turbulence Database, available for download [[F]](#F). Some more description, on the database and also the simulation and the dataset, are given by Yi et al. [[FYW+08]](#FYW+08).
 
 The article on the simulation by Wan et al. [[WCE+12]](#WCE+12) is cited by publications not only on fluid feature identification \[[M](#M),[FKC24](#FKC24)] but on AI \[[KTS21](#KTS21),[ZYY+24](#ZYY+24),[BK25](#BK25)]. It is noteworthy that this work by Wan et al. from 2012 has suddenly started receiving citations in the 2020s as the latest AI boom took off, especially since 2024, right after the transformer model significantly increased the AI investment.
  
 ## References
 <a id="BTW+23">[BTW+23]</a> Bürger, Kai, Marc Treib, Rüdiger Westermann, Suzanne Werner, Cristian C. Lalescu, Alexander Szalay, Charles Meneveau, and Gregory L. Eyink. "Vortices within vortices: hierarchical nature of vortex tubes in turbulence." arXiv preprint arXiv:1210.3325 (2023). https://arxiv.org/pdf/1210.3325  
+<a id="I">[I]</a> IDIES turbulence vortices movie. https://www.youtube.com/watch?v=gDiF3a_UXSs
 <a id="F">[F]</a> Forced Isotropic Turbulence Dataset. Johns Hopkins Turbulence Database. https://turbulence.idies.jhu.edu/datasets/homogeneousTurbulence/isotropic  
 <a id="WCE+12">[WCE+12]</a> Minping, Wan, Shiyi Chen, Gregory Eyink, Charles Meneveau, Perry Johnson, Eric Perlman, Randal Burns, Yi Li, Alex Szalay, and Stephen Hamilton. "Forced isotropic turbulence data set (extended)." (2012). https://turbulence.idies.jhu.edu/docs/isotropic/README-isotropic.pdf  
 <a id="FYW+08">[FYW+08]</a> Li, Yi, Eric Perlman, Minping Wan, Yunke Yang, Charles Meneveau, Randal Burns, Shiyi Chen, Alexander Szalay, and Gregory Eyink. "A public turbulence database cluster and applications to study Lagrangian evolution of velocity increments in turbulence." Journal of Turbulence 9 (2008): N31.  
