@@ -2,9 +2,9 @@
 ## On the Vortices-Within-Vortices Dataset
 
 Bürger et al. visualized vortices within vortices [[BTW+23](#BTW+23),[I](#I)] (I cited this work in [[FSS]](#FSS)).
-Their dataset seems to be the Forced Isotropic Turbulence Data Set [[WCE+12]](#WCE+12) from Johns Hopkins Turbulence Database, available for download [[F]](#F). Some more description, on the database and also the simulation and the dataset, are given by Yi et al. [[FYW+08]](#FYW+08).
+Their dataset seems to be the Forced Isotropic Turbulence Data Set [[WCE+12]](#WCE+12) from Johns Hopkins Turbulence Database (available for download [[F]](#F)). Some more description, on the database and also the simulation and the dataset, are given by Yi et al. [[FYW+08]](#FYW+08).
 
-The article on the simulation by Wan et al. [[WCE+12]](#WCE+12) is cited by publications not only on fluid feature identification \[[M](#M),[FKC24](#FKC24)] but on AI \[[KTS21](#KTS21),[ZYY+24](#ZYY+24),[BK25](#BK25)]. It is noteworthy that this work by Wan et al. from 2012 has suddenly started receiving citations in the 2020s as the latest AI boom took off, especially since 2024, right after the transformer model significantly increased the AI investment.
+The article on the simulation by Wan et al. [[WCE+12]](#WCE+12) is cited by articles not only on fluid feature identification \[[M](#M),[FKC24](#FKC24)] but on AI \[[KTS21](#KTS21),[ZYY+24](#ZYY+24),[BK25](#BK25)]. It is interesting to see that this simulation from 2012 has started receiving citations later in the 2020s as the latest AI boom progressed, especially since 2024, as the transformer model significantly increased AI investment.
  
 ## References
 <a id="BTW+23">[BTW+23]</a> Bürger, Kai, Marc Treib, Rüdiger Westermann, Suzanne Werner, Cristian C. Lalescu, Alexander Szalay, Charles Meneveau, and Gregory L. Eyink. "Vortices within vortices: hierarchical nature of vortex tubes in turbulence." arXiv preprint arXiv:1210.3325 (2023). https://arxiv.org/pdf/1210.3325  
